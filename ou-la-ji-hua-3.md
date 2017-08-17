@@ -10,5 +10,19 @@
 >
 > What is the largest prime factor of the number 600851475143 ?
 
+```py
+def eula(s):
+    i = 2
+    while s != 1:
+        if not s % i:
+            s = s / i
+            maxPrime = i
+        else:
+            i += 1
+    return maxPrime
+
+print eula(600851475143)
+```
+
 
 

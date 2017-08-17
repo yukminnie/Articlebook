@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [欧拉计划1](ou-la-ji-hua-1.md)
-* 欧拉计划2
+* [欧拉计划2](ou-la-ji-hua-2.md)
 * 欧拉计划3
 * 欧拉计划4
 * 欧拉计划5
